@@ -5,9 +5,9 @@ svelte 연습 및 학습을 위한 repo입니다.
 <br/>
 
 ## Todo
-- [ ] what is svelte, svelte kit? 
+- [x] what is svelte, svelte kit? [https://github.com/somyiLee/svelte-practice/issues/2]
 - [ ] directory
-- [ ] Routing
+- [x] Routing [https://github.com/somyiLee/svelte-practice/issues/2]
 - [ ] Using stores with context
 
 <br/>
@@ -15,4 +15,5 @@ svelte 연습 및 학습을 위한 repo입니다.
 ## 참고 자료
 - [svelte 공식문서](https://svelte.dev/), [sveltekit 공식문서](https://kit.svelte.dev/)
 - practice : https://learn.svelte.dev/tutorial/your-first-component
+- etc : youtube...
   
