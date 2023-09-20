@@ -8,7 +8,7 @@ svelte 연습 및 학습을 위한 repo입니다.
 - [x] what is svelte, svelte kit? [https://github.com/somyiLee/svelte-practice/issues/2]
 - [x] Routing [https://github.com/somyiLee/svelte-practice/issues/2]
 - [x] Component & props [https://github.com/somyiLee/svelte-practice/issues/5]
-- [ ] directory
+- [x] directory 
 - [ ] Using stores with context
       
 
